@@ -244,7 +244,7 @@ export const experiences = [
     role: "Frontend Engineer Intern",
     company: "Sponsogram",
     date: "Jan 2024 - March 2024",
-    desc: "Enhanced user experiences on Sponsogram , Portals by resolving bugs & reduced load time by 40%. Built Website using React Js with seamless interaction of REST APIs using AXIOS optimized with React Query. Refactored previous code to TypeScript, updated with new dependency and integrated Vite with Jest for Unit Testing.",
+    desc: "Enhanced user experience on the company website by developing and optimizing the navbar and footer sections using HTML, CSS, and JavaScript. Collaborated with the design team to implement responsive and user-friendly UI components, ensuring cross-browser compatibility and improved accessibility. Optimized web pages for performance and SEO, leading to faster load times. Refactored code for better maintainability and utilized Git for version control, enabling efficient collaboration and code management.",
     skills: [
       "ReactJS",
       "NodeJs",
@@ -302,16 +302,15 @@ export const projects = [
     title: "BookStore",
     date: "Jun 2024 - Jul 2024",
     description:
-      "A Rule Builder application “Decision Hub” that empowers Business Analysts to create, save, and visualize decision strategies. Provide a no-code rule writing experience and visual representation to test these rules in real-time and observe the calculations at each step.",
+      "Developed a full-stack bookstore application using the MERN stack (MongoDB, Express.js, React.js, Node.js) with secure authentication and authorization. Implemented JWT-based authentication to ensure a protected sign-up, login, and logout process, restricting access to course content for authenticated users only. The application features a responsive and intuitive user interface built with React.js, providing a seamless experience across various devices and screen sizes. Additionally, CORS was integrated to enable secure cross-origin requests, enhancing the overall security and performance of the application.",
     image:
       "_",
     tags: [
       "React Js",
-      "PostgressSQL",
+      "MongoDB",
       "Node Js",
       "Express Js",
-      "Redux",
-      "React Flow",
+      
     ],
     category: "web app",
     github: "https://github.com/Anuj0704/bookstoreApp",
