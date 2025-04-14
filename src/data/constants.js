@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Anuj0704",
   resume:
-    "https://drive.google.com/file/d/1bm7SYRDAC5ByT-Jik-flhjLbCIBHyNRm/view?usp=sharing",
+    "https://drive.google.com/file/d/1LAZXWh9NnQzurSkhvJRrgLuXiSaCcyZl/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/anuj-kumar-jha-1a3a9a256",
   
 };
@@ -272,8 +272,8 @@ export const education = [
     img: "https://upload.wikimedia.org/wikipedia/commons/e/e4/NSUT_logo.png",
     school: "NETAJI SUBHAS UNIVERSITY OF TECHNOLOGY, New Delhi",
     date: "Nov 22 - May 2026",
-    grade: "5.15 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Mechanical Engineering at Netaji Subhash University of Technology, New Delhi. I have completed 4 semesters and have a CGPA of 5.15. ",
+    /*grade: "5.15 CGPA",*/
+    desc: "I am currently pursuing a Bachelor's degree in Mechanical Engineering at Netaji Subhash University of Technology, New Delhi.Alongside my coursework, I have developed a strong interest in tech-driven areas like Mechatronics, automation, and full-stack development. I have built several websites, which has helped me gain hands-on experience in web technologies and frontend frameworks. I'm also learning Data Structures and Algorithms in C++ to strengthen my problem-solving skills. ",
     degree: "Bachelor of Technology - BTech, Mechanical Engineering",
   },
   {
@@ -281,7 +281,6 @@ export const education = [
     img: "https://d3bat55ebwjhsf.cloudfront.net/schools/logos/user_generic_school_user/b06d2c16-7b58-459f-ab7c-ee3e2645ce20-da6ecc56-4b_7cBwJwc.webp",
     school: "NK Public School, New Delhi",
     date: "Apr 2021 - Apr 2022",
-    grade: "70%",
     desc: "I completed my class 12 high school education at NK Public School, New Delhi, where I studied Science with Computer Science.",
     degree: "CBSE(XII), Science with Computer",
   },
@@ -290,7 +289,6 @@ export const education = [
     img: "https://d3bat55ebwjhsf.cloudfront.net/schools/logos/user_generic_school_user/b06d2c16-7b58-459f-ab7c-ee3e2645ce20-da6ecc56-4b_7cBwJwc.webp",
     school: "NK Public School, New Delhi",
     date: "Apr 2019 - Apr 2020",
-    grade: "75%",
     desc: "I completed my class 10 education at NK Public School, New Delhi.",
     degree: "CBSE(X)",
   },
