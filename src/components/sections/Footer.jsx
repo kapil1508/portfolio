@@ -82,7 +82,7 @@ const Footer = () => {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Anuj Jha</Logo>
+        <Logo>Kapil Rawat</Logo>
         <Nav>
           <NavLink href="#About">About</NavLink>
           <NavLink href="#Skills">Skills</NavLink>
@@ -98,7 +98,7 @@ const Footer = () => {
             <Instagram />
           </SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>&copy; 2025 Anuj Kumar Jha. All rights reserved.</Copyright>
+        <Copyright>&copy; 2025 Kapil Rawat. All rights reserved.</Copyright>
       </FooterWrapper>
     </FooterContainer>
   );
